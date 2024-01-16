@@ -25,9 +25,9 @@
 
 --- -->
 
-[2022학년도 신입생 교육](https://logistex.github.io/big_data/)
+# [2022학년도 신입생 교육](https://logistex.github.io/big_data/)
 
-[2023학년도 신입생 교육](./index_2023.md)
+# [2023학년도 신입생 교육](./index_2023.md)
 
 ---
 
