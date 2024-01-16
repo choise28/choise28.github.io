@@ -54,24 +54,15 @@
         <tr>
             <td style="text-align: center; vertical-align: middle;"><strong>학과 <br>소개</strong></td>
             <td>
-                <p>
-                빅데이터는 4차산업혁명 시대의 핵심 기술입니다. 
-                </p>
-                <p>
-                빅데이터과가 꿈꾸는 비전은 데이터 과학 기술로 4차산업혁명을 완성할 빅데이터 전문가를 양성하는 것입니다. 
-                </p>
-                <p>
-                빅데이터과가 추구하는 핵심 가치는 3대 역량을 키우는 것입니다.<br>
-                &nbsp; 1) 데이터 분석(Data Analytics)을 활용하여 현실을 통찰하고 비즈니스 영감을 얻는 역량, <br>
-                &nbsp; 2) 인공지능 공학(AI Engineering)을 활용하여 미래를 예측하고 최적화하는 역량, <br> 
-                &nbsp; 3) 데이터 공학(Data Engineering)을 활용하여 데이터 파이프라인을 구축하는 역량 
-                </p>
-                <p>
-                빅데이터과가 지향하는 인재상은 이러한 핵심 가치에 근거하여, <br>
-                현장실무 역량, 융복합 창의 역량, 문제해결 역량, 취창업 역량, 통섭소통 역량, 협업 역량을 발휘하는 <br>
-                빅데이터 전문가입니다. <br><br>
-                빅데이터과에서 4차산업혁명 시대의 빅데이터 전문가로 성장할 수 있습니다.
-                </p>
+            <p>
+            현재 진행 중인 제 4차 산업혁명의 핵심은 빅데이터를 상징하는 “데이터”와 인공지능을 대표하는 “지능”입니다. 현재 데이터의 규모는 더욱 커지고 있으며, 데이터의 형태는 다양해지고 있으며, 그리고 실시간으로 더 빠른 처리 속도가 요구되고 있습니다. 이러한 데이터를 통하여 더욱 정교한 모델을 만들수록 지능화된 사회로 발전합니다.
+            </p>
+            <p>
+            한양여자대학교 빅데이터과에서는 데이터에서 정보로, 나아가 지식으로 변환하여 가치를 추출하는 기술을 배울 수 있습니다. 흔히 빅데이터를 21세기의 원유라고 칭합니다. 원유의 정제를 통해 부가가치를 높이듯, 데이터의 변환 과정을 통해 가치를 상승시킬 수 있습니다. 먼저 Web, 모바일 App, IoT 등을 이용한 다양한 정보시스템을 구축하여 새로운 데이터를 만드는 과정을 배우게 됩니다. 데이터의 수집 및 저장 과정을 배움으로써, 정보로 변환하는 과정을 알 수 있습니다. 그리고 정보를 분석하고 시각화하는 일련의 과정을 통해 데이터에서 정보와 지식을 찾아내는 방법을 알게 됩니다. 이를 통해 데이터를 기반으로 한 더 나은 의사결정을 할 수 있습니다.
+            </p>
+            <p>
+            우리는 데이터를 공학적으로 다루는 방법을 배움으로써, 디지털 전환을 선도하는 빅데이터 전문가로 성장할 수 있습니다.
+            </p>
             </td>
         </tr>
         <tr></tr>
@@ -79,7 +70,7 @@
             <td style="text-align: center; vertical-align: middle;"><strong>비전 <br>체계</strong></td>
             <td>
                 <br>
-                <img width="100%" src="https://user-images.githubusercontent.com/58820851/212447061-135df3a1-494a-4952-863f-902aca340c13.PNG">
+                <img width="100%" src="https://github.com/choise28/lectureimages/assets/58820851/22ae389f-f972-4997-a320-4430f4a1337b">
                 <br>
             </td>
         </tr>
@@ -88,7 +79,7 @@
             <td style="text-align: center; vertical-align: middle;"><strong>인재<br>양성<br>유형</strong></td>
             <td>
                 <br>
-                <img width="100%" src="https://user-images.githubusercontent.com/58820851/212447369-0559287c-fc87-4978-814e-8ac4d29530f7.PNG">
+                <img width="100%" src="https://github.com/choise28/lectureimages/assets/58820851/9ea1661e-2912-458e-833f-c00168c8d9cd">
                 <br>
             </td>
         </tr>
@@ -97,56 +88,47 @@
             <td style="text-align: center; vertical-align: middle;"><strong>목표 <br>직무</strong></td>
             <td>
             <ul>
-                <li><i>데이터 분석가</i></li> 
-                <p>&nbsp;&nbsp;&nbsp; 조직의 데이터를 수집·처리·분석하여 비즈니스에 활용할 방법을 찾아내는 역할</p>
-                <li><i>AI 엔지니어</i></li> 
-                <p>&nbsp;&nbsp;&nbsp; 머신러닝·딥러닝 등을 활용하여 예측 및 최적화를 수행하는 인공지능 모델을 구축하는 역할</p>
                 <li><i>데이터 엔지니어</i></li> 
-                <p>&nbsp;&nbsp;&nbsp; 기업의 "데이터 파이프라인(data pipeline)"을 구축하고 관리하는 역할</p>
+                <p>&nbsp;&nbsp;&nbsp; 데이터 수집, 저장 및 전처리를 수행하는 데이터파이프라인을 구축하고 관리하는 역할</p>            
+                <li><i>데이터 분석가</i></li> 
+                <p>&nbsp;&nbsp;&nbsp; 데이터 분석 및 시각화를 통해 데이터로부터 통찰력을 얻고 의사결정을 지원하는 역할</p>
+                <li><i>소프트웨어 개발자</i></li> 
+                <p>&nbsp;&nbsp;&nbsp; Web, 모바일 App 등의 소프트웨어를 설계, 개발하며, 정보시스템의 데이터를 생산하는 역할</p>
+                <li><i>빅데이터 전문가</i></li> 
+                <p>&nbsp;&nbsp;&nbsp; 빅데이터 프로세스를 수행 및 관리하며, 빅데이터에서 가치를 도출하는 역할</p>
                 <li><b><i>데이터 과학자</i></b></li>
                 <p>&nbsp;&nbsp;&nbsp; - 데이터 과학자 = 데이터 엔지니어 + 데이터 분석가 + AI 엔지니어</p>
                 <p>&nbsp;&nbsp;&nbsp; - 빅데이터과 졸업생들의 궁극적 지향 목표</p>
               </ul>
-                <img width="100%" src="https://user-images.githubusercontent.com/58820851/212447551-2b52e7b0-1ccb-49b5-8171-0bbd30dc77e3.PNG">
+                <img width="100%" src="https://github.com/choise28/lectureimages/assets/58820851/7668460f-2fff-4ecc-9af8-0d3a86d6f7f2">
               </td>
         </tr>
         <tr></tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;"><strong>교육 <br>목표</strong></td>
+            <td style="text-align: center; vertical-align: middle;"><strong>교육 <br>필수역량</strong></td>
             <td>
             <ul>
-                <li>올바른 가치관과 공동체 의식을 바탕으로 바른 인성과 품성을 갖춘 <b>교양인</b> 양성</li> 
-                <li>4차 산업혁명 시대를 선도하는 빅데이터 전문 지식과 기술을 갖춘 <b>전문인</b> 양성</li> 
-                <li>급변하는 사회에 대응하는 적응력을 갖추고 끊임없이 성장하는 <b>도전인</b> 양성</li> 
-                <li>현장에서 요구되는 협업적 실무능력과 창의적 문제해결능력을 갖춘 <b>실용인</b> 양성</li> 
-                <li>전문 지식과 기술을 기반으로 지역 사회와 국가에 공헌하는 <b>봉사인</b> 양성</li> 
+                <li><i>데이터 공학</i></li> 
+                <p>&nbsp;&nbsp;&nbsp; 데이터 분석가, 데이터 과학자 등의 전문가가 데이터를 사용할 수 있도록 고품질의 일관된 데이터 셋을 만들고 관리하는 역량</p>   
+                <li><i>소프트웨어 공학</i></li> 
+                <p>&nbsp;&nbsp;&nbsp; 소프트웨어를 개발하고 정보시스템을 구축 및 운영하는 역량</p>
+                <li><i>비즈니스 및 도메인 지식</i></li> 
+                <p>&nbsp;&nbsp;&nbsp; 비즈니스 및 특정 분야에 대한 전문 지식으로, 정보시스템을 둘러싼 내부 요인과 외부 환경을 파악하고 관리하는 역량</p>                  
             </ul>
             </td>
         </tr>
         <tr></tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;"><strong>특성화 <br>방향</strong></td>
+            <td style="text-align: center; vertical-align: middle;"><strong>교육과정 및<br>취업 분야</strong></td>
             <td>
-            <ul>
-                4차 산업혁명의 핵심 기술인 빅데이터 전문 학과로서, <br>
-                아래와 같은 3대 역량을 보유한 전문 인력을 양성한다.  
-                <li><b>데이터 공학(data engineering)</b>을 활용하여 데이터 파이프라인을 구축하는 역량</li> 
-                <li><b>데이터 분석(data analytics)</b>을 활용하여 현실을 통찰하고 비즈니스 영감을 얻는 역량</li> 
-                <li><b>AI 공학(AI engineering)</b>을 활용하여 미래를 예측하고 최적화하는 역량</li> 
-            </ul>
+                <img width="100%" src="https://github.com/choise28/lectureimages/assets/58820851/7cf1e0e6-8548-4419-bc38-e4eb403fb344">
             </td>
         </tr>
         <tr></tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;"><strong>진로<br> 및<br>자격증</strong></td>
+            <td style="text-align: center; vertical-align: middle;">자격증</strong></td>
             <td>
               <ul> 
-                <li><b>진로</b></li>
-                <ul>
-                  <li><b>데이터 공학 전문가</b>: 웹/모바일 앱 개발자, 비즈니스 콘텐츠 기확자/디자이너</li> 
-                  <li><b>데이터 분석 전문가</b>: 데이터 분석, 데이터 시각화, 데이터 마이닝, 데이터베이스</li> 
-                  <li><b>AI 공학 전문가</b>: 머신러닝/딥러닝 개발자, 컴퓨터 비전 개발자</li> 
-                </ul>
                 <li><b>자격증</b></li>
                 <ul>
                   <li>데이터분석전문가(ADP/ADsP)</li> 
@@ -159,6 +141,27 @@
                   <li>컴퓨터활용능력</li> 
                   <li>정보기술자격(ITQ)</li> 
                 </ul>
+              </ul>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">교육과정<br> 특징</strong></td>
+            <td>
+            <ul>
+                <li><b><i>캡스톤 디자인 운영</i></b></li>
+                <p>&nbsp;&nbsp;&nbsp; - 캡스톤 디자인이란 산업체 또는 사회가 요구하는 문제에 대해 해결책을 제시하고 나아가 취업 연계를 도모하는 산학연계 교육과정</p>
+                <p>&nbsp;&nbsp;&nbsp; - 3개의 트랙에서 배운 다양한 기술들을 활용하여 기획, 분석, 설계, 구현으로 이어지는 산출물 제작</p>
+                <p>&nbsp;&nbsp;&nbsp; - 총 3학기(2-2, 3-1, 3-2)에 걸쳐 연속적이고 반복적인 접근법에 의해 프로젝트 수행</p>
+                <li><b><i>현장 실습 학기제 운영</i></b></li>
+                <p>&nbsp;&nbsp;&nbsp; - 현장 실습 학기제란 산학협력 관계를 기반으로 학교 밖으로 연장된 경험 학습을 수행하는 수업 방법</p>
+                <p>&nbsp;&nbsp;&nbsp; - 빅데이터 전공 관련 체험 및 현장 실습 제공</p>
+                <li><b><i>채용 연계(우대) 주문식 교육과정 운영</i></b></li>
+                <p>&nbsp;&nbsp;&nbsp; - 주문식 교육과정이란 대학과 산업체가 공동으로 교육과정을 개설하고, 채용을 목적으로 산업체가 채용연계하는 교육과정</p>
+                <p>&nbsp;&nbsp;&nbsp; - 빅데이터 전공 중심의 현장 미러형 실습으로 기업이 요구하는 인재 양성</p>
+                <li><b><i>학사학위 전공심화 과정 운영</i></b></li>
+                <p>&nbsp;&nbsp;&nbsp; - 학사학위 전공심화 과정은 전문대학 또는 동등 이상의 학력이 있다고 인정되는 자가 과정을 이수할 경우 본 대학 총장 명의의 4년제 학사 학위를 취득함</p>
+                <p>&nbsp;&nbsp;&nbsp; - 데이터과학 전문가 양성을 목표로 전공 교과 심화 및 4차 산업혁명 기술 융합 교육과정 운영</p>
               </ul>
             </td>
         </tr>
@@ -183,21 +186,21 @@
 - 3학년을 위한 **데이터과학 사회수요맞춤형 교육 과정**  
   [![22년 사회맞춤형 설명회](https://user-images.githubusercontent.com/58820851/212447988-c8dda1fd-3ba0-44c0-b825-c6e014a157fc.PNG)](https://colab.research.google.com/drive/1d8zlh1k5in5DbmkzHrCNVzcJ4zEeArllhttps://drive.google.com/file/d/1d8zlh1k5in5DbmkzHrCNVzcJ4zEeArll/view?usp=sharing)
 
-- 2학년을 위한 **ICT 융복합 트랙**  
+<!-- - 2학년을 위한 **ICT 융복합 트랙**  
   - ICT 마이크로 전공이란?
   - 4차 산업혁명 시대에 대응할 수 있는 신기술을 교육하는 별도 교육과정으로 소프트웨어융합과, 스마트IT과, 빅데이터과, AI융합과 학생에게 전공영역의 확대를 제공하는 학생맞춤형 교육과정입니다.
 
   - 모집 대상 및 수강신청
     - 공학계열(소프트웨어융합과, 스마트IT과, 빅데이터과, AI융합과) 2학년 이상 재학생
 
-  ![ICT융복합트랙](https://user-images.githubusercontent.com/58820851/212447992-3e0a8f7e-3d91-4e84-ab53-932da056db7c.PNG)
+  ![ICT융복합트랙](https://user-images.githubusercontent.com/58820851/212447992-3e0a8f7e-3d91-4e84-ab53-932da056db7c.PNG) -->
 
 - 1학년을 위한 **신입생 전공 적응 특강**  
   ![](https://user-images.githubusercontent.com/58820851/212447993-2afd6938-ac74-4794-9562-2b8741e5930d.PNG)
 
 - 졸업생을 위한 **학사학위 전공심화과정**
 
-![전공심화1](https://user-images.githubusercontent.com/58820851/212448592-cc302dca-259c-4e40-9a2a-4f462d9907f6.PNG)
-![전공심화2](https://user-images.githubusercontent.com/58820851/212448594-0c0d5e11-bc0b-478c-a153-3d5f0387a9df.PNG)
+  ![전공심화1](https://user-images.githubusercontent.com/58820851/212448592-cc302dca-259c-4e40-9a2a-4f462d9907f6.PNG)
+  ![전공심화2](https://user-images.githubusercontent.com/58820851/212448594-0c0d5e11-bc0b-478c-a153-3d5f0387a9df.PNG)
 
 <!-- [![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/) -->
