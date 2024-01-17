@@ -26,7 +26,6 @@
 
   ![](https://blog.altair.co.kr/wp-content/uploads/2021/06/bigdata_architecture-1024x492.png)
 
-- 4차 산업혁명의 핵심 기술
 
 ## 4차 산업혁명의 개념
 - 4차 산업혁명의 핵심 기술
@@ -126,7 +125,7 @@
         </tr>
         <tr></tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">자격증</strong></td>
+            <td style="text-align: center; vertical-align: middle;"><strong>자격증</strong></td>
             <td>
               <ul> 
                 <li><b>자격증</b></li>
@@ -146,7 +145,7 @@
         </tr>
         <tr></tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">교육과정<br> 특징</strong></td>
+            <td style="text-align: center; vertical-align: middle;"><strong>교육과정<br> 특징</strong></td>
             <td>
             <ul>
                 <li><b><i>캡스톤 디자인 운영</i></b></li>

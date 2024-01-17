@@ -16,7 +16,7 @@
 
 ---
 
-[수업에서 완성할 웹 사이트](https://logistex.github.io/test0100/)
+<!-- [수업에서 완성할 웹 사이트](https://logistex.github.io/test0100/) -->
 
 ---
 <!-- 
@@ -25,13 +25,13 @@
 
 --- -->
 
-# [2022학년도 신입생 교육](https://logistex.github.io/big_data/)
+## [2022학년도 신입생 교육](https://logistex.github.io/big_data/)
 
-# [2023학년도 신입생 교육](./index_2023.md)
+## [2023학년도 신입생 교육](./index_2023.md)
 
 ---
 
-[![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/)
+![image](https://github.com/choise28/lectureimages/assets/58820851/16c47ef7-96ec-4b83-9066-259aae1fd703)
 
 ---
 

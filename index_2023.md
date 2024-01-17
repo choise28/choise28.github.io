@@ -29,11 +29,11 @@
 
 ---
 
-[![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/)
+<!-- [![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/) -->
 
 ---
 
-<p stylle="margin-top:50px">
+<!-- <p stylle="margin-top:50px">
     <div id="disqus_thread" stylle="margin-top:100px"></div>
 <script>
 
@@ -54,4 +54,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</p>
+</p> -->
